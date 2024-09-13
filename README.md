@@ -21,6 +21,7 @@ A Hygia Tecno Med é um projeto-piloto que tem a intenção de se tornar uma emp
 
 
 
+![Anotação 2024-09-12 223224](https://github.com/user-attachments/assets/989491a1-71d3-4a6f-bb47-84ab98b1e3b3)
 
 
 

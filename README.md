@@ -7,7 +7,8 @@ ste é um projeto desenvolvido para salvar vidas no futuro com pesquisas em ciê
 A Hygia Tecno Med é um projeto-piloto que tem a intenção de se tornar uma empresa no ramo da medicina e ciências no futuro, o nosso objetivo é de trazer esperanças e qualidade de vida para aqueles pacientes que precisam nesse meio da área da saúde. 
 
 
-![456490792_122101669460482135_2691908467562170145_n](https://github.com/user-attachments/assets/2672e95a-0082-4a98-ba23-8097e1df2c99)
+<![456490792_122101669460482135_2691908467562170145_n](https://github.com/user-attachments/assets/2672e95a-0082-4a98-ba23-8097e1df2c99)/>
+![456245558_122101676864482135_3758649810108605000_n](https://github.com/user-attachments/assets/4e691087-d489-4815-930d-fb9b2e002dac)
 
 
 

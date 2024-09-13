@@ -3,7 +3,7 @@
 Bem-vindos a Hygia Tenologia da Medicina conhecida como Hygia Tecno Med!
 
 
-ste é um projeto desenvolvido para salvar vidas no futuro com pesquisas em ciência e tecnologia para pessoas que necessitam de tratamento em transplantes de órgãos, tecidos e membros.
+Este é um projeto desenvolvido para salvar vidas no futuro com pesquisas em ciência e tecnologia para pessoas que necessitam de tratamento em transplantes de órgãos, tecidos e membros.
 A Hygia Tecno Med é um projeto-piloto que tem a intenção de se tornar uma empresa no ramo da medicina e ciências no futuro, o nosso objetivo é de trazer esperanças e qualidade de vida para aqueles pacientes que precisam nesse meio da área da saúde. 
 
 

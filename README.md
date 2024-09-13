@@ -1,6 +1,6 @@
 # Hygia-Tecno-Med
 
-
+Bem-vindos a Hygia Tenologia da Medicina conhecida como Hygia-Tecno-Med!
 
 ![456490792_122101669460482135_2691908467562170145_n](https://github.com/user-attachments/assets/2672e95a-0082-4a98-ba23-8097e1df2c99)
 

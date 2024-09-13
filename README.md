@@ -1,7 +1,8 @@
 # Hygia-Tecno-Med
 
 
-![Uploading image.png…]()
+
+![456490792_122101669460482135_2691908467562170145_n](https://github.com/user-attachments/assets/2672e95a-0082-4a98-ba23-8097e1df2c99)
 
 
 
